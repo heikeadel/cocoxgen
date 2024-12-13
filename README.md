@@ -12,7 +12,8 @@ In addition, the file prompts.json provides the long and short prompts that were
 ## Citation
 If you use this dataset, please cite the following paper:
 
-@proceedings{moessner-2024-cocoxgen,
+```
+@inproceedings{moessner-2024-cocoxgen,
     title = "Human vs. AI: A Novel Benchmark and a Comparative Study on the
 Detection of Generated Images and the Impact of Prompts",
     author = "Moe{\ss}ner, Philipp and Adel, Heike",
@@ -21,3 +22,4 @@ Detection of Generated Images and the Impact of Prompts",
     year = "2025",
     address = "Abu Dhabi, UAE"
 }
+```
